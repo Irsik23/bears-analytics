@@ -1,0 +1,9 @@
+play_id,team,yards,type,is_explosive
+1,CHI,4,run,False
+2,CHI,25,pass,True
+3,GB,-2,run,False
+4,CHI,12,run,True
+5,GB,45,pass,True
+6,CHI,0,pass,False
+7,MIN,8,run,False
+8,MIN,60,pass,True
